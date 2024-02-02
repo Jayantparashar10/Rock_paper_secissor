@@ -5,7 +5,3 @@
 
 
 
-
-
-
-# If you think it can be more optimised please leave a coment.
